@@ -1,4 +1,5 @@
 homepage: "https://www.markus-baersch.de"
+documentation: "https://github.com/mbaersch/cookie-killer#readme"
 versions:
   - sha: 65cf3b4fdcb7117a624ab994deed412f04879bcf
     changeNotes: initial release.
