@@ -2,7 +2,7 @@
 
 **Custom Tag Template for Server-Side Google Tag Manager**
 
-Delete a cookie by name, path and domain.
+Delete a cookie by name, path and domain via server response.
 
 ![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/cookie-killer) ![License](https://img.shields.io/github/license/mbaersch/cookie-killer)
 
