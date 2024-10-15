@@ -4,7 +4,8 @@
 
 Delete a cookie by name, path and domain via server response.
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/remove-cookie) ![License](https://img.shields.io/github/license/mbaersch/remove-cookie)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/remove-cookie) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/remove-cookie) ![License](https://img.shelds.io/github/license/mbaersch/remove-cookie)
+
 
 Delete cookies in ssGTM response header. Example use case: delete id cookies if consent was changed and a service got deactivated.
 
